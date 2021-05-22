@@ -1,6 +1,29 @@
+
+ body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+ .tabla{
+    margin: auto; 
+    border: 1px red solid;
+}
+
+
+
 h3{
-    color : red;
+    color :red;
     font-size: 40px;
+}
+
+h1{
+    color: darkblue;
+}
+
+h2{
+    color:midnightblue;
 }
 
 .tituloEspecial{
@@ -9,9 +32,16 @@ h3{
     font-weight: 100;
 }
 
+.div1{
+    width: 100%;
+    height: 100vh;
+    background-color: goldenrod;
+}
+
+
 .div2{
     width: 100%;
     height: 100vh;
-    background-color: grey;
+    background-color: skyblue;
 }
 
